@@ -1,5 +1,5 @@
 '''
-# Homework 01 - Spam SMS Detection
+# Spam SMS Detection
 # Hanzallah Azim Burney
 '''
 import os
