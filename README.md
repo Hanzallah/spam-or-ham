@@ -1,2 +1,2 @@
 # spam-or-ham
-Accurate and efficient naive bayes models for email classification.
+Contains Bernoulli and Multinomial naive bayes model with a feature selection algorithm for classifying emails as spam or ham.
